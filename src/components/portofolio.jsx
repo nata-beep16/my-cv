@@ -16,7 +16,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-app">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/4.jpg"
+                  src="/portfolio/4.jpg"
                   className="img-fluid"
                   alt
                 />
@@ -26,7 +26,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-web">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/1.jpeg"
+                  src="/portfolio/1.jpeg"
                   className="img-fluid"
                   alt
                 />
@@ -36,7 +36,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-app">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/3.jpg"
+                  src="/portfolio/3.jpg"
                   className="img-fluid"
                   alt
                 />
@@ -46,7 +46,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-card">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/uk.jpg"
+                  src="/portfolio/uk.jpg"
                   className="img-fluid"
                   alt
                 />
@@ -56,7 +56,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-web">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/mic.jpg"
+                  src="/portfolio/mic.jpg"
                   className="img-fluid"
                   alt
                 />
@@ -66,7 +66,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-app">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/trd.jpg"
+                  src="/portfolio/trd.jpg"
                   className="img-fluid"
                   alt
                 />
@@ -76,7 +76,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-card">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/S22.jpg"
+                  src="/portfolio/S22.jpg"
                   className="img-fluid"
                   alt
                 />
@@ -86,7 +86,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-card">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/S23.jpg"
+                  src="/portfolio/S23.jpg"
                   className="img-fluid"
                   alt
                 />
@@ -96,7 +96,7 @@ const Portfolio = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-web">
               <div className="portfolio-img">
                 <img
-                  src="public/portfolio/HR.jpg"
+                  src="/portfolio/HR.jpg"
                   className="img-fluid"
                   alt
                 />
